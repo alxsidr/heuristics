@@ -42,7 +42,7 @@ is the wrong instrument.
 ## On authorship
 
 These are written by [Aleks Sidorecs](https://www.linkedin.com/in/alxsidr/), from operations
-he ran. They carry no AI marking because no model wrote them.
+he ran.
 
 The lab marks content a model generated and deliberately does not mark content a person wrote —
 labelling everything would misstate provenance and train readers to ignore the label. That
