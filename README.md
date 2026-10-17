@@ -16,6 +16,7 @@ diffed and found by people and machines that never visit the site.
 |---|-----------|-------|------|----------|
 | 01 | [Requisite variety in supply chain](01-requisite-variety-in-supply-chain/) | Match the variety or pay for the difference. | [sidorecs.com](https://www.sidorecs.com/heuristics/01-requisite-variety-in-supply-chain/) | [2026-09-26](https://web.archive.org/web/20260926092147/https://www.sidorecs.com/heuristics/01-requisite-variety-in-supply-chain/) |
 | 02 | [Asymmetric supply chain physics](02-asymmetric-supply-chain-physics/) | Diagnose the shape before you prescribe the cure. | [sidorecs.com](https://www.sidorecs.com/heuristics/02-asymmetric-supply-chain-physics/) | [2026-09-26](https://web.archive.org/web/20260926091332/https://www.sidorecs.com/heuristics/02-asymmetric-supply-chain-physics/) |
+| 03 | [Decision loop readiness](03-decision-loop-readiness/) | A company is never ready. A loop is, or it isn’t. | [sidorecs.com](https://www.sidorecs.com/heuristics/03-decision-loop-readiness/) | [2026-10-17](https://web.archive.org/web/20261017101115/https://www.sidorecs.com/heuristics/03-decision-loop-readiness/) |
 
 ## Anatomy of a heuristic
 
