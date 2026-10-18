@@ -14,8 +14,6 @@ archive: https://web.archive.org/web/20261017101115/https://www.sidorecs.com/heu
 
 ![Decision loop readiness](decision-loop-readiness.png)
 
-*Assess the loop, not the company.*
-
 ## Problem
 
 ### Why do AI readiness scores never tell you what supply chain operation should do on Monday?
